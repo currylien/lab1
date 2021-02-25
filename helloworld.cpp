@@ -6,6 +6,6 @@ int main (void) {
     for (int i=1; i<10; ++i) {
         cout << "hello world " << i << " times!\n";
     }
-    cou<<"Hi\n";
+    cout<<"Hi\n";
     return 0;
 }
